@@ -5,6 +5,8 @@ mysql
 plugsched/plugsched-sdk
 gradle:8.6-jdk17
 openjdk:17-jdk-alpine
+node:14.20.0-alpine
+
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
