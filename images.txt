@@ -1,4 +1,4 @@
-#nginx
+nginx:stable-alpine
 openanolis/anolisos
 ubuntu:20.04
 mysql
