@@ -1,6 +1,7 @@
 nginx:stable-alpine
 openanolis/anolisos
 ubuntu:20.04
+centos:7
 mysql
 plugsched/plugsched-sdk
 gradle:8.6-jdk17
